@@ -1,0 +1,22 @@
+C:\Users\HP\Desktop\Ice\numbers-master\labact1\labact\bin\Debug\labact.exe.config
+C:\Users\HP\Desktop\Ice\numbers-master\labact1\labact\bin\Debug\labact.exe
+C:\Users\HP\Desktop\Ice\numbers-master\labact1\labact\bin\Debug\labact.pdb
+C:\Users\HP\Desktop\Ice\numbers-master\labact1\labact\bin\Debug\labact.xml
+C:\Users\HP\Desktop\Ice\numbers-master\labact1\labact\obj\Debug\labact.vbprojAssemblyReference.cache
+C:\Users\HP\Desktop\Ice\numbers-master\labact1\labact\obj\Debug\labact.Form1.resources
+C:\Users\HP\Desktop\Ice\numbers-master\labact1\labact\obj\Debug\labact.Resources.resources
+C:\Users\HP\Desktop\Ice\numbers-master\labact1\labact\obj\Debug\labact.vbproj.GenerateResource.cache
+C:\Users\HP\Desktop\Ice\numbers-master\labact1\labact\obj\Debug\labact.exe
+C:\Users\HP\Desktop\Ice\numbers-master\labact1\labact\obj\Debug\labact.xml
+C:\Users\HP\Desktop\Ice\numbers-master\labact1\labact\obj\Debug\labact.pdb
+C:\Users\HP\Desktop\Ice\7 segment numbers\labact1\labact\bin\Debug\labact.exe.config
+C:\Users\HP\Desktop\Ice\7 segment numbers\labact1\labact\bin\Debug\labact.exe
+C:\Users\HP\Desktop\Ice\7 segment numbers\labact1\labact\bin\Debug\labact.pdb
+C:\Users\HP\Desktop\Ice\7 segment numbers\labact1\labact\bin\Debug\labact.xml
+C:\Users\HP\Desktop\Ice\7 segment numbers\labact1\labact\obj\Debug\labact.vbprojAssemblyReference.cache
+C:\Users\HP\Desktop\Ice\7 segment numbers\labact1\labact\obj\Debug\labact.Form1.resources
+C:\Users\HP\Desktop\Ice\7 segment numbers\labact1\labact\obj\Debug\labact.Resources.resources
+C:\Users\HP\Desktop\Ice\7 segment numbers\labact1\labact\obj\Debug\labact.vbproj.GenerateResource.cache
+C:\Users\HP\Desktop\Ice\7 segment numbers\labact1\labact\obj\Debug\labact.exe
+C:\Users\HP\Desktop\Ice\7 segment numbers\labact1\labact\obj\Debug\labact.xml
+C:\Users\HP\Desktop\Ice\7 segment numbers\labact1\labact\obj\Debug\labact.pdb
